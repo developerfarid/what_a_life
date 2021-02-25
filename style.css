@@ -15,7 +15,7 @@ a{
     text-decoration: none;
 }
 @media(max-width:500px){
-    body{
+    h1, h2, h3{
         font-size: 17px;
     }
 }
